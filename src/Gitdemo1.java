@@ -2,7 +2,8 @@
 public class Gitdemo1 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		System.out.println("123  moved to california ");
+		System.out.println("renu  moved to california ");
 
 	}
 
